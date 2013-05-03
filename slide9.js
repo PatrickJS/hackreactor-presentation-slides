@@ -1,7 +1,11 @@
 
 
-function identityf(x) {
-  return function () {
-    return x;
-  };
-}
+
+
+
+
+                      function identityf(x) {
+                        return function () {
+                          return x;
+                        };
+                      }

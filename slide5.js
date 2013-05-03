@@ -1,9 +1,13 @@
 
 
-function identity(x) {
-  return x;
-}
 
-var identity = function identity(x) {
-  return x;
-};
+
+
+
+                  function identity(x) {
+                    return x;
+                  }
+
+                  var identity = function identity(x) {
+                    return x;
+                  };
